@@ -1,0 +1,29 @@
+id,PTID,PTName,PrintOrder
+,1,Writer,4
+,2,Demo Teacher,10
+,3,Facilitator,3
+,4,Trainor,2
+,5,Focal Person,1
+,6,DepEd Official,8
+,7,Consultant,2
+,8,Encoder,6
+,9,Illustrator,5
+,10,BEE Staff,8
+,11,External Reviewer,11
+,12,Consultant/Reviewer,2
+,13,Language Editor,3
+,14,Content Reviewer,3
+,15,Lead Encoder,6
+,16,Co-Lead Encoder,7
+,0,[Unspecified],99
+,18,Management,1
+,19,Layout Artist,5
+,20,Participant,4
+,21,Resource Speaker,1
+,22,Videographer,6
+,23,Editor,2
+,24,Typesetter,5
+,25,Content and Language Reviewer,2
+,26,Encoder/Layout Artist,6
+,27,Support Staff,6
+,28,Documentor,6
